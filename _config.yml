@@ -1,5 +1,5 @@
 # Site settings
-title: Pjc-hard
+title: Renai
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://Pjc-hard.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pjc-hard
+  fullname: Renai
   github: github
   
   email: 2870320069@qq.com

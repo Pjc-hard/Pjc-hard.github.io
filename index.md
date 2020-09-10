@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello,World
-subtitle: "要么做第一个,要么做最好的一个"
+title: Hello	World
+subtitle: My name is Renai
 sitemap:
   priority: 0.9
 ---
