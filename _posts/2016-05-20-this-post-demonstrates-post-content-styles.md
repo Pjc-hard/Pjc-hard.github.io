@@ -2,8 +2,8 @@
 layout: page
 title: "This post demonstrates post content styles"
 subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
+date:   2020-09-10 21:21:21 +0530
+categories: 无用的
 author: "Bart Simpson"
 meta: "Springfield"
 ---
