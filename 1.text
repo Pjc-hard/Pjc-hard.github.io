@@ -1,22 +1,10 @@
 @charset "UTF-8";
-/* =js *//***************************************************************/
-  h1{
-    position: absolute;
-    line-height: 50px;
-    letter-spacing: 5px;
-    color: #fff;
-    width: 300px;
-    top: 40%;
-    left: 50%;
-    margin-left: -200px;
-    font-size: 30px;}
 /* =Base *//*************************************************************/
   body {
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
-    background-color: #FFF;  
-    overflow: hidden;
-    background-color: #000;}
+    color: #012;
+    background-color: #FFF; }
 
   a {
     color: #57A;
