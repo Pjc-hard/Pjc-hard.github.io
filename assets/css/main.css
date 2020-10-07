@@ -1,21 +1,10 @@
 @charset "UTF-8";
-/* =js *//***************************************************************/
-  .xinkong{
-    position: absolute;
-    line-height: 50px;
-    letter-spacing: 5px;
-    color: #fff;
-    width: 300px;
-    top: 40%;
-    left: 50%;
-    margin-left: -200px;
-    font-size: 30px;}
 /* =Base *//*************************************************************/
   body {
     font-family: 'Quicksand', sans-serif;  
-    font-size: 100%;  
-    overflow: hidden;
-    background-color: rgb(84, 30, 155);}
+    font-size: 100%;
+    color: #012;
+    background-color: rgba(30, 184, 223, 0.507); }
 
   a {
     color: #57A;
@@ -53,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: rgba(236, 18, 164, 0.397); }
+    color: #16a085; }
 
   .wrapper {
     max-width: 90%;
