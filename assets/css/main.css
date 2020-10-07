@@ -13,10 +13,9 @@
 /* =Base *//*************************************************************/
   body {
     font-family: 'Quicksand', sans-serif;  
-    font-size: 100%;
-    background-color: #FFF;  
+    font-size: 100%;  
     overflow: hidden;
-    background-color: #000;}
+    background-color: rgb(84, 30, 155);}
 
   a {
     color: #57A;
