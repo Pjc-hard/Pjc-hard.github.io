@@ -1,14 +1,3 @@
----
-layout: page
-title: "JavaScript"
-subtitle: "Master the use of tools"
-date:   2020-09-10 21:21:21 +0530
-categories: ['Use of tools']
-author: "Bart Simpson"
-meta: "Springfield"
----
-
-
 # JavaScript #
 ## 环境 ##
 - 浏览器中带有解析JS的插件
@@ -62,4 +51,3 @@ meta: "Springfield"
 
 - 函数的调用方式:函数名();--调用函数的执行结果就是返回值
    
- - 需要购买100个苹果，有3个一组和4个一组，有多少中搭配方法
